@@ -17,7 +17,7 @@ public class ImageProcessingJob {
         Image image = new Image(); //处理图片，并封装为Image对象
         ImageStore imageStore = new AliyunImageStore(/*省略参数*/);
         imageStore.upload(image);
-        imageStore.dowlaod("");
     }
 
+    // TODO 思考题：如何优雅的修改图片存储方式
 }
