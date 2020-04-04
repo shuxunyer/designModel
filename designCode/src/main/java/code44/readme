@@ -1,0 +1,14 @@
+Factory Design parttern 工厂模式
+
+工厂模式分为三种更加细分的类型：
+简单工厂、release1
+
+工厂方法、release2
+当我们需要新增一个parser的时候，
+需要新增一个实现了IRuleConfigParserFactory的ParserFactory
+
+抽象工厂
+
+原理、实现、
+为什么会出现这种设计模式、主要解决了哪些问题、
+应用场景、
