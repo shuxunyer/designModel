@@ -1,0 +1,4 @@
+状态模式
+状态模式中的三个元素：状态(state)  事件(event)  动作(action)
+event触发state的修改，action的执行,其中action的执行不是必须条件
+
